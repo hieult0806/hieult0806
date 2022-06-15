@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hieult0806
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Game Development
+- 💞️ I’m looking to collaborate on Game Development
+- 📫 How to reach me hieult@xdev.vn
 
 <!---
 hieult0806/hieult0806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
