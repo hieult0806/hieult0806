@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lo Trung Hieu (Trung)
+# Trung Hieu
 
 ### C# · .NET · CAD/BIM Automation · 3D Tools
 
