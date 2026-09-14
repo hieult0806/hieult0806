@@ -26,34 +26,35 @@ I enjoy turning ideas into playable experiences and useful software: responsive 
 
 ## Game Development
 
-### XDEV Mobile Games
+Mobile releases, prototypes, and archive titles from my [XDEV game gallery](https://xdev.vn/games/). Each game links to its gallery entry for screenshots and available store links.
 
-My game work spans spatial puzzles, match-3, arcade games, board games, and brain-training challenges.
+### Mobile Releases
 
-| Game | Gameplay & Highlights |
-| --- | --- |
-| [Pack The Truck: 3D Puzzle](https://play.google.com/store/apps/details?id=vn.xdev.packthetruck) | A 3D packing puzzle with furniture rotation, placement previews, and progressively tighter layouts. Includes a Unity WebGL build. |
-| [Frozen Maze Puzzle](https://play.google.com/store/apps/details?id=vn.xdev.escape) | Ice-sliding logic puzzles: plan a route and use obstacles to stop at the right position. **100K+ downloads.** |
-| [2048 Twist: Match 3 Puzzle](https://play.google.com/store/apps/details?id=vn.xdev.r2048) | Number merging with Undo, Destroy power-ups, and Time Trial mode. Recent work includes UI refinement and Google Play store optimization. |
-| [Block Puzzle: Drag & Fit](https://play.google.com/store/apps/details?id=vn.xdev.cb) | Drag blocks onto a grid, complete lines, and manage the remaining space. **100K+ downloads.** |
-| [Siêu Trí Tuệ - Việt Nam](https://play.google.com/store/apps/details?id=sieu.tri.tue) | Brain-training puzzles inspired by the Vietnamese Super Brain show. **50K+ downloads.** |
+| Game | Genre | Gameplay |
+| --- | --- | --- |
+| [Escape Quest](https://xdev.vn/games/#escape-quest) | Puzzle | Sliding puzzles set in icy mazes with sharks and obstacles. |
+| [Block Shooter: 2048](https://xdev.vn/games/#2048-shooter) | Action Puzzle | Number merging combined with arcade shooting. |
+| [Pack The Truck: 3D Puzzle](https://xdev.vn/games/#pack-the-truck) | 3D Puzzle | Arrange and rotate furniture to fill a moving truck. |
 
-*Download milestones shown on the linked Google Play listings, checked September 2026.*
+### Prototypes & Release Previews
 
-**Jelly Run: Don't Melt** is also part of the [XDEV catalog](https://play.google.com/store/apps/dev?id=5788668792715001678): a 3D endless runner built around lane changes, obstacle avoidance, and collecting gel to restore the character's size.
+| Game | Genre | Gameplay |
+| --- | --- | --- |
+| [Blox Paint](https://xdev.vn/games/#blox-paint) | 3D Puzzle | Spatial challenges combining blocks and color. |
+| [Gem Wars](https://xdev.vn/games/#gem-wars) | Match-3 | Gem matching with a combat theme. |
+| [Mahjong](https://xdev.vn/games/#mahjong) | Mahjong | Classic tile matching for short play sessions. |
+| [Pepper Magic Saga](https://xdev.vn/games/#pepper-magic-saga) | Match-3 | Colorful matching puzzles built for replay. |
+| [Solitaire](https://xdev.vn/games/#solitaire) | Solitaire | Familiar card mechanics with a mobile presentation. |
+| [Sparkle 2](https://xdev.vn/games/#sparkle-2) | Bubble Shooter | Bubble-shooting action with colorful feedback. |
+| [Sudoku Tetris](https://xdev.vn/games/#sudoku-tetris) | Block Puzzle | Block placement combined with logic challenges. |
 
-[Game gallery](https://xdev.vn/games/) · [Pack The Truck WebGL build files](https://github.com/hieult0806/vir2026/tree/master/truck)
+### Archive
 
-### Selected Game Projects & Contributions
-
-| Project | My Contribution |
-| --- | --- |
-| [Pepper Magic Saga](https://www.freelancer.com/u/hieult0806/portfolio/pepper-magic-saga-custom-match3-w-13925849) | Took a custom match-3 game from prototype to a playable web version: gameplay systems, visual effects, growth animations, tutorial flow, and UI interactions. |
-| [Temple-themed match-3](https://www.freelancer.com/u/hieult0806/portfolio/game-developer-13925848) | Built gameplay, gem and match effects, board transitions, hint interactions, and animated UI for the web. |
-| [Mine Quest 2 — Tapps Games](https://www.freelancer.com/u/hieult0806/portfolio/mine-quest-game-8954587) | Worked as **Lead Developer** on the mobile game. |
-| [FPS Level Design](https://www.freelancer.com/u/hieult0806/portfolio/fps-levels-design-7038528) | Designed multiple levels for an FPS shooter. |
-
-Additional portfolio work includes **Ludo**, **poker/card games**, **Farm City**, **Word Choice**, **Pet Warriors**, and **Quiz the Road**. See my [Freelancer portfolio](https://www.freelancer.com/u/hieult0806) for project examples and client reviews.
+| Game | Genre | Gameplay |
+| --- | --- | --- |
+| [Flash Cube](https://xdev.vn/games/#flash-cube) | Arcade | Reaction-based play with quick restarts. |
+| [Meta Cube Crush](https://xdev.vn/games/#meta-cube-crush) | Match-3 | Cube matching with a puzzle focus. |
+| [Block Puzzle Legend 2](https://xdev.vn/games/#block-puzzle-legend-2) | Puzzle | Accessible puzzles designed for repeated play. |
 
 ## Tools & Automation
 
