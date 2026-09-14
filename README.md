@@ -51,7 +51,6 @@ My game work spans spatial puzzles, match-3, arcade games, board games, and brai
 | [Pepper Magic Saga](https://www.freelancer.com/u/hieult0806/portfolio/pepper-magic-saga-custom-match3-w-13925849) | Took a custom match-3 game from prototype to a playable web version: gameplay systems, visual effects, growth animations, tutorial flow, and UI interactions. |
 | [Temple-themed match-3](https://www.freelancer.com/u/hieult0806/portfolio/game-developer-13925848) | Built gameplay, gem and match effects, board transitions, hint interactions, and animated UI for the web. |
 | [Mine Quest 2 — Tapps Games](https://www.freelancer.com/u/hieult0806/portfolio/mine-quest-game-8954587) | Worked as **Lead Developer** on the mobile game. |
-| [Talking Tom Camp](https://www.freelancer.com/u/hieult0806/portfolio/talking-tom-camp-game-8954544) | Worked on camp-based game development. |
 | [FPS Level Design](https://www.freelancer.com/u/hieult0806/portfolio/fps-levels-design-7038528) | Designed multiple levels for an FPS shooter. |
 
 Additional portfolio work includes **Ludo**, **poker/card games**, **Farm City**, **Word Choice**, **Pet Warriors**, and **Quiz the Road**. See my [Freelancer portfolio](https://www.freelancer.com/u/hieult0806) for project examples and client reviews.
