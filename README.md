@@ -1,6 +1,6 @@
 <div align="center">
 
-# Trung Hieu
+# Trung Hieu Lo
 
 ### Software Developer · Creative Tools · Games · SaaS
 
