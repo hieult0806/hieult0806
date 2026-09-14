@@ -2,7 +2,7 @@
 
 # Trung Hieu
 
-### Unity Game Developer · C# / .NET · 3D Tools · BIM Automation
+### Software Developer · Creative Tools · Games · SaaS
 
 *Building games, creative tools, and practical workflow automation.*
 
@@ -20,43 +20,69 @@
 
 ## What I Build
 
-I'm a game developer with **10+ years of experience**, working on **mobile and web games**, **3D tooling**, and **BIM/CAD automation**. I develop and publish games under **XDEV STUDIO**, alongside game projects for clients.
+I'm a developer with **10+ years of experience** building games and interactive software. My work spans **creative tools**, **mobile and web games**, **SaaS applications**, and **BIM/CAD automation**. I develop and publish games under **XDEV STUDIO**, alongside projects for clients.
 
 I enjoy turning ideas into playable experiences and useful software: responsive gameplay, custom visual effects, interactive geometry tools, and Revit add-ins.
 
-## Game Development
+## Featured Projects
 
-Mobile releases, prototypes, and archive titles from my [XDEV game gallery](https://xdev.vn/games/). Each game links to its gallery entry for screenshots and available store links.
+### Virdraw — iPad Drawing Workspace for Windows
 
-### Mobile Releases
+*iPad + Windows · Apple Pencil · Windows Ink · Internal Beta*
 
-| Game | Genre | Gameplay |
-| --- | --- | --- |
-| [Escape Quest](https://xdev.vn/games/#escape-quest) | Puzzle | Sliding puzzles set in icy mazes with sharks and obstacles. |
-| [Block Shooter: 2048](https://xdev.vn/games/#2048-shooter) | Action Puzzle | Number merging combined with arcade shooting. |
-| [Pack The Truck: 3D Puzzle](https://xdev.vn/games/#pack-the-truck) | 3D Puzzle | Arrange and rotate furniture to fill a moving truck. |
+A drawing workspace that streams Windows applications to iPad and brings Pencil input back to the PC. My work focuses on drawing controls, pressure input, and Krita integration, including direct brush-size and opacity controls.
 
-### Prototypes & Release Previews
+Built on **Moonlight and Apollo/Sunshine**. Pressure input has been tested in Krita; the iPad and Windows apps are currently in internal testing.
 
-| Game | Genre | Gameplay |
-| --- | --- | --- |
-| [Blox Paint](https://xdev.vn/games/#blox-paint) | 3D Puzzle | Spatial challenges combining blocks and color. |
-| [Gem Wars](https://xdev.vn/games/#gem-wars) | Match-3 | Gem matching with a combat theme. |
-| [Mahjong](https://xdev.vn/games/#mahjong) | Mahjong | Classic tile matching for short play sessions. |
-| [Pepper Magic Saga](https://xdev.vn/games/#pepper-magic-saga) | Match-3 | Colorful matching puzzles built for replay. |
-| [Solitaire](https://xdev.vn/games/#solitaire) | Solitaire | Familiar card mechanics with a mobile presentation. |
-| [Sparkle 2](https://xdev.vn/games/#sparkle-2) | Bubble Shooter | Bubble-shooting action with colorful feedback. |
-| [Sudoku Tetris](https://xdev.vn/games/#sudoku-tetris) | Block Puzzle | Block placement combined with logic challenges. |
+[Product overview](https://draw.imvir.com/en/)
 
-### Archive
+### Layerir — AI Creative Workspace
 
-| Game | Genre | Gameplay |
-| --- | --- | --- |
-| [Flash Cube](https://xdev.vn/games/#flash-cube) | Arcade | Reaction-based play with quick restarts. |
-| [Meta Cube Crush](https://xdev.vn/games/#meta-cube-crush) | Match-3 | Cube matching with a puzzle focus. |
-| [Block Puzzle Legend 2](https://xdev.vn/games/#block-puzzle-legend-2) | Puzzle | Accessible puzzles designed for repeated play. |
+*AI Workflows · Layered PSD · Image & Audio Tools*
 
-## Tools & Automation
+A web workspace for preparing creative assets: separate illustrations into editable PSD layers and access tools for sound effects, voice, music, images, and video. The product brings job progress, history, results, and credit management into one account.
+
+The layer-separation workflow supports character, object, and UI assets for further editing or rigging preparation.
+
+[Website](https://ps.imvir.com/)
+
+### Qvenu — Restaurant Ordering & Operations
+
+*Restaurant SaaS · QR Ordering · Real-Time Workflows*
+
+A restaurant platform connecting table-side QR ordering with kitchen and service dashboards. It brings menu customization, order-status tracking, customer service requests, and multiple locations into a shared workflow.
+
+The project connects the customer experience with day-to-day restaurant operations, from placing an order to preparing and serving it.
+
+[Website](https://qvenu.com/) · [Workflow guide](https://qvenu.com/guide)
+
+### Pack The Truck: 3D Puzzle
+
+*Unity · 3D Gameplay · Android · WebGL*
+
+A spatial puzzle game where players rotate and arrange furniture inside a moving truck. The gameplay combines placement previews, clear feedback, and increasingly constrained layouts. Released on Android, with a Unity WebGL build also available in my public repository.
+
+[Google Play](https://play.google.com/store/apps/details?id=vn.xdev.packthetruck) · [Gallery](https://xdev.vn/games/#pack-the-truck) · [WebGL build files](https://github.com/hieult0806/vir2026/tree/master/truck)
+
+### Pepper Magic Saga
+
+*Web Game · Custom Gameplay · Visual Effects*
+
+Developed from the first prototype to a playable web version. I built the match-3 game systems and visual effects, including growth animations, board interactions, tutorial flow, and responsive UI feedback.
+
+[Gallery](https://xdev.vn/games/#pepper-magic-saga) · [My contribution](https://www.freelancer.com/u/hieult0806/portfolio/pepper-magic-saga-custom-match3-w-13925849)
+
+**More games:** [View the full XDEV game portfolio](https://xdev.vn/games/).
+
+### LoBIM — Revit Workflow Automation
+
+*C# · .NET 8 · Revit 2026 API · WPF*
+
+A Revit add-in for everyday production tasks: limiting-distance review, CSV/Excel import into drafting views, sheet filtering and renumbering, and cloning views and sheets from linked models. Includes data re-sync, configurable features, and diagnostics.
+
+[Repository](https://github.com/hieult0806/LoBIMRevitPlugin)
+
+## Open Source Contributions
 
 ### TexTools — Blender 5.x Compatibility
 
@@ -67,30 +93,6 @@ A community fork bringing TexTools to Blender 5.x. My changes adapt UV selection
 Original TexTools work by **renderhjs, franMarz, and Sav Martin**; my contribution is the Blender 5.x compatibility update.
 
 [Repository](https://github.com/hieult0806/TexTools-Blender5) · [Upstream](https://github.com/franMarz/TexTools-Blender)
-
-### Prompt Grammar Tracker
-
-*Python · FastAPI · SQLite · Docker*
-
-A passive grammar tracker for prompts sent to AI tools. It captures prompts for background analysis and presents history, suggested rewrites, recurring grammar patterns, and a live review page with diff highlighting. Supports manual capture, text/JSONL imports, hook scaffolding for Claude Code and Codex, and optional LLM analysis.
-
-[Repository](https://github.com/hieult0806/language-assistance)
-
-### LoBIM — Revit Workflow Automation
-
-*C# · .NET 8 · Revit 2026 API · WPF*
-
-A Revit add-in for everyday production tasks: limiting-distance review, CSV/Excel import into drafting views, sheet filtering and renumbering, and cloning views and sheets from linked models. Includes data re-sync, configurable features, and diagnostics.
-
-[Repository](https://github.com/hieult0806/LoBIMRevitPlugin)
-
-## More Web Work
-
-| Project | What I built |
-| --- | --- |
-| [XDEV Studio](https://xdev.vn/) · [Source](https://github.com/hieult0806/XDEV_Website) | A game showcase with screenshot galleries and links to store listings. |
-| [SigVir Studio](https://sigvir.com/) · [Source](https://github.com/hieult0806/vir2026) | A game development services website with responsive layouts and animated visuals. |
-| [Quan Họ sculpture showcase](https://github.com/hieult0806/imvir) | A responsive website presenting **Trần Thanh Nga's** sculpture graduation project, with artwork sections and a process timeline gallery. |
 
 ## Tech Stack
 
@@ -104,8 +106,6 @@ A Revit add-in for everyday production tasks: limiting-distance review, CSV/Exce
 | Geometry | Ray picking, snapping, section clipping, triangulation, polygon operations with Clipper2, mesh processing |
 | Development | Git, GitHub Actions, MVVM, async/await, LINQ, xUnit, pytest |
 
-My earlier 3D work includes **Doufera**, a Unity tooling and geometry library, and **Direct3D 11 / OpenGL CAD-style editor prototypes** covering rendering, picking, clipping, and mesh operations.
-
 ## Education
 
 | Institution | Program |
@@ -117,7 +117,7 @@ My earlier 3D work includes **Doufera**, a Unity tooling and geometry library, a
 
 <div align="center">
 
-Interested in opportunities and collaborations in **game development, 3D tools, BIM/CAD automation, and developer tooling**.
+Interested in opportunities and collaborations in **creative tools, game development, SaaS, and BIM/CAD automation**.
 
 [Email](mailto:hieult0806@gmail.com) · [LinkedIn](https://www.linkedin.com/in/trung-hieu-lo-270708339/) · [Freelancer](https://www.freelancer.com/u/hieult0806)
 
