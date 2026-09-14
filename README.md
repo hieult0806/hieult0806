@@ -2,7 +2,7 @@
 
 # Trung Hieu
 
-### C# / .NET · Unity & 3D Tools · BIM Automation · Python & Web
+### Unity Game Developer · C# / .NET · 3D Tools · BIM Automation
 
 *Building games, creative tools, and practical workflow automation.*
 
@@ -20,19 +20,43 @@
 
 ## What I Build
 
-I work across **game development**, **3D tooling**, and **BIM/CAD automation**. My recent projects range from a Unity puzzle game and Blender compatibility fixes to a Python app for learning from everyday AI prompts.
+I'm a game developer with **10+ years of experience**, working on **mobile and web games**, **3D tooling**, and **BIM/CAD automation**. I develop and publish games under **XDEV STUDIO**, alongside game projects for clients.
 
-I enjoy turning complex workflows into useful software: interactive geometry tools, Revit add-ins, and web interfaces that make projects easy to explore.
+I enjoy turning ideas into playable experiences and useful software: responsive gameplay, custom visual effects, interactive geometry tools, and Revit add-ins.
 
-## Featured Projects
+## Game Development
 
-### Pack The Truck & XDEV Studio
+### XDEV Mobile Games
 
-*Unity · WebGL · HTML · CSS · JavaScript*
+My game work spans spatial puzzles, match-3, arcade games, board games, and brain-training challenges.
 
-Recent work includes a Unity WebGL build of **Pack The Truck**, a 3D puzzle game about dragging, rotating, and loading furniture into a truck, alongside updates to the XDEV Studio website. The site brings together game galleries, screenshots, and store links for titles including **Escape Quest**, **Block Shooter: 2048**, and **Pack The Truck**.
+| Game | Gameplay & Highlights |
+| --- | --- |
+| [Pack The Truck: 3D Puzzle](https://play.google.com/store/apps/details?id=vn.xdev.packthetruck) | A 3D packing puzzle with furniture rotation, placement previews, and progressively tighter layouts. Includes a Unity WebGL build. |
+| [Frozen Maze Puzzle](https://play.google.com/store/apps/details?id=vn.xdev.escape) | Ice-sliding logic puzzles: plan a route and use obstacles to stop at the right position. **100K+ downloads.** |
+| [2048 Twist: Match 3 Puzzle](https://play.google.com/store/apps/details?id=vn.xdev.r2048) | Number merging with Undo, Destroy power-ups, and Time Trial mode. Recent work includes UI refinement and Google Play store optimization. |
+| [Block Puzzle: Drag & Fit](https://play.google.com/store/apps/details?id=vn.xdev.cb) | Drag blocks onto a grid, complete lines, and manage the remaining space. **100K+ downloads.** |
+| [Siêu Trí Tuệ - Việt Nam](https://play.google.com/store/apps/details?id=sieu.tri.tue) | Brain-training puzzles inspired by the Vietnamese Super Brain show. **50K+ downloads.** |
 
-[Studio & games](https://xdev.vn/) · [Website source](https://github.com/hieult0806/XDEV_Website) · [WebGL build files](https://github.com/hieult0806/vir2026/tree/master/truck)
+*Download milestones shown on the linked Google Play listings, checked September 2026.*
+
+**Jelly Run: Don't Melt** is also part of the [XDEV catalog](https://play.google.com/store/apps/dev?id=5788668792715001678): a 3D endless runner built around lane changes, obstacle avoidance, and collecting gel to restore the character's size.
+
+[Game gallery](https://xdev.vn/games/) · [Pack The Truck WebGL build files](https://github.com/hieult0806/vir2026/tree/master/truck)
+
+### Selected Game Projects & Contributions
+
+| Project | My Contribution |
+| --- | --- |
+| [Pepper Magic Saga](https://www.freelancer.com/u/hieult0806/portfolio/pepper-magic-saga-custom-match3-w-13925849) | Took a custom match-3 game from prototype to a playable web version: gameplay systems, visual effects, growth animations, tutorial flow, and UI interactions. |
+| [Temple-themed match-3](https://www.freelancer.com/u/hieult0806/portfolio/game-developer-13925848) | Built gameplay, gem and match effects, board transitions, hint interactions, and animated UI for the web. |
+| [Mine Quest 2 — Tapps Games](https://www.freelancer.com/u/hieult0806/portfolio/mine-quest-game-8954587) | Worked as **Lead Developer** on the mobile game. |
+| [Talking Tom Camp](https://www.freelancer.com/u/hieult0806/portfolio/talking-tom-camp-game-8954544) | Worked on camp-based game development. |
+| [FPS Level Design](https://www.freelancer.com/u/hieult0806/portfolio/fps-levels-design-7038528) | Designed multiple levels for an FPS shooter. |
+
+Additional portfolio work includes **Ludo**, **poker/card games**, **Farm City**, **Word Choice**, **Pet Warriors**, and **Quiz the Road**. See my [Freelancer portfolio](https://www.freelancer.com/u/hieult0806) for project examples and client reviews.
+
+## Tools & Automation
 
 ### TexTools — Blender 5.x Compatibility
 
@@ -64,6 +88,7 @@ A Revit add-in for everyday production tasks: limiting-distance review, CSV/Exce
 
 | Project | What I built |
 | --- | --- |
+| [XDEV Studio](https://xdev.vn/) · [Source](https://github.com/hieult0806/XDEV_Website) | A game showcase with screenshot galleries and links to store listings. |
 | [SigVir Studio](https://sigvir.com/) · [Source](https://github.com/hieult0806/vir2026) | A game development services website with responsive layouts and animated visuals. |
 | [Quan Họ sculpture showcase](https://github.com/hieult0806/imvir) | A responsive website presenting **Trần Thanh Nga's** sculpture graduation project, with artwork sections and a process timeline gallery. |
 
@@ -72,7 +97,8 @@ A Revit add-in for everyday production tasks: limiting-distance review, CSV/Exce
 | Area | Technologies & Experience |
 | --- | --- |
 | Languages | C#, Python, JavaScript, TypeScript, SQL |
-| Games & 3D | Unity, Blender, Direct3D 11 / Vortice, OpenGL / OpenTK |
+| Game Development | Unity, C#, Android / iOS, WebGL, gameplay systems, visual effects, game UI, level design |
+| 3D & Rendering | Blender, Direct3D 11 / Vortice, OpenGL / OpenTK |
 | BIM & Desktop | .NET, WPF, Revit API, Tekla Open API |
 | Web & Automation | FastAPI, SQLite, HTML/CSS, Docker |
 | Geometry | Ray picking, snapping, section clipping, triangulation, polygon operations with Clipper2, mesh processing |
