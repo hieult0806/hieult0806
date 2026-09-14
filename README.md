@@ -24,6 +24,8 @@ I'm a developer with **10+ years of experience** building games and interactive 
 
 I enjoy turning ideas into playable experiences and useful software: responsive gameplay, custom visual effects, interactive geometry tools, and Revit add-ins.
 
+**Freelancer: 5.0/5 · 34 reviews** — [View client feedback](https://www.freelancer.com/u/hieult0806) *(checked September 2026)*
+
 ## Featured Projects
 
 ### Virdraw — iPad Drawing Workspace for Windows
@@ -81,6 +83,24 @@ Developed from the first prototype to a playable web version. I built the match-
 A Revit add-in for everyday production tasks: limiting-distance review, CSV/Excel import into drafting views, sheet filtering and renumbering, and cloning views and sheets from linked models. Includes data re-sync, configurable features, and diagnostics.
 
 [Repository](https://github.com/hieult0806/LoBIMRevitPlugin)
+
+## Client Feedback
+
+Selected excerpts from past client projects on Freelancer.
+
+**Nicolas A. — Game Unity 3d · 5.0/5**
+
+> “…this is the 6th game I've worked with him…”
+
+A returning client describing our sixth game project together.
+
+**Robert D. — Blockchain mobile game · 5.0/5**
+
+> “…he was able to maintain constant communication…”
+
+The review also highlights continued support after the project ended.
+
+[Read the original reviews on Freelancer](https://www.freelancer.com/u/hieult0806)
 
 ## Open Source Contributions
 
